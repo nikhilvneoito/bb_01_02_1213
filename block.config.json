@@ -1,0 +1,8 @@
+{
+  "name": "bb_01_02_1213",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/nikhilvneoito/bb_01_02_1213",
+    "ssh": "git@github.com:nikhilvneoito/bb_01_02_1213.git"
+  }
+}
